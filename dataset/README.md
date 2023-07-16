@@ -1,4 +1,4 @@
-# Language identification label dataset
+# Language identification label dataset (langid_label.csv)
 ### Acquired from Tiktok & Twitter using keywords of public security domain (natural & non-natural)
     
     Total Comment/ Sentence: 10K
