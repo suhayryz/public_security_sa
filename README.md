@@ -1,6 +1,6 @@
 # public_security_sa
 
-## Annotated Social Media Bilingual Code-Mixed Sentiment Analysis and Sacasm Detection in Public Security Domain (annotated_bicodemix_publicsa)
+## Annotated Social Media Bilingual Code-Mixed Sentiment Analysis and Sarcasm Detection in Public Security Domain (annotated_bicodemix_publicsa)
 
 ### Acquired from Tiktok & Twitter using keywords of public security domain (natural & non-natural)
     
