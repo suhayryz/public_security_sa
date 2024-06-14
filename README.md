@@ -1,12 +1,12 @@
 # public_security_sa
 
-## Annotated Social Media Bilingual Code-Mixed Sentiment Analysis and Sarcasm Detection in Public Security Domain (annotated_bicodemix_publicsa)
+## Annotated Social Media Bilingual Code-Mixed Sentiment Analysis and Sarcasm Detection in Public Security Domain (annotated_bicodemix_publicsa_v2)
 
 ### Acquired from Tiktok & Twitter using keywords of public security domain (natural & non-natural)
     
     Total Comment/ Tweet: 10K
-    Sentiment Label: Positive, Negative, Neutral
-    Sarcasm Label: Sarcastic (sarc), Not sarcastic (notsarc)
+    Sentiment Label: positive, negative, neutral
+    Sarcasm Label: sarcastic (sarc), not sarcastic (notsarc)
     Number of annotator: 3 (expert)
 
 	
